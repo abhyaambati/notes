@@ -1,0 +1,54 @@
+Deep Learning
+
+- used for complex tasks with a long list of rules
+- adapts to new environments
+- discovering insights within large collections of data
+
+Bad features of DL:
+  - features discovered by DL are uninterpretable by humans
+  - sometimes simpler methods could prove more useful
+  - when you don't have large amounts of data
+
+
+  Machine Learning                           |      Deep Learning
+  -----------------------------------------------------------------------------------------------
+  Random Forest                              |      a. NNs
+  Gradient Boosting methods                  |      b. Fully connected NN
+  Naive Bayes                                |      c. CNN
+                                             |      RNN
+  SVM                                        |      Transformer
+
+ -  we focus on a,b,c with PyTorch
+
+   
+NEURAL NETWORKS
+...............
+Steps:
+1. inputs
+2. numerical encoding
+3. learns representation ( patterns/ features/ weights )
+4. representation outputs
+5. output
+
+- choose the appropriate neural network for your problem ( each of the nodes is called a hidden unit or neuron )
+
+Anatomy of Neural Networks
+...........................
+   1. input layer ( data goes here )
+   2. hidden layers ( learns patterns in data )
+   3. output layer ( outputs learned representation or predication probabilities )
+
+   * "patterns" is an arbitary term, you'll often hear embedding, weights, feature representation, feature vectors all referring to similar things
+
+Types of Learning:
+- supervised
+- unsupervised
+- transfer learning
+
+- we'll be writing to do supervised and transfer learning, but the style code can be adopted across different paradigms
+
+What is Deep Learning actually used for?
+  - recommendation (youtube)
+  - translation, speech recognition (seq2seq)
+  - nlp ( classification / regression )
+  
