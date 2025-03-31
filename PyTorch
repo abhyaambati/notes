@@ -1,1 +1,21 @@
+PYTORCH
 
+- open source deep learning network by Meta
+- used for : research, ai applications, and production
+
+why?
+- easy to learn ( like numpy, but w gpu support )
+- dynamic computation graph ( easier to debug than tensorflow )
+- great for nlp and computer vision ( cnns, transformers, GANs, RL)
+
+- Has better tensors and better efficient operations than numpy
+- Has GPU support (CUDA)
+
+- AutoGrad ( Automatic Differentiation )
+- autograd enables automatic gradient computation for training neural networks
+- Gradient in neural networks is used to optimise ( minimise ) the loss function and updates weights in the direction as necessary for optimization with gradient descent
+
+- CUDA ( Compute Unified Device Architecture ) : parallel cloud computing platform and programming model developed by Nvidia that enables users to use GPU cores for parallel processing
+for general purpose computing
+
+- 
