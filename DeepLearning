@@ -49,6 +49,6 @@ Types of Learning:
 
 What is Deep Learning actually used for?
   - recommendation (youtube)
-  - translation, speech recognition (seq2seq)
+  - translation, speech recognition (seq2seq : sequence to sequence)
   - nlp ( classification / regression )
   
